@@ -98,6 +98,13 @@
       "rightMediaUrl": "/assets/mintmedia.mp4"
     },
     {
+      "type": "feature-media-half-1",
+      "titleText": "Frontdoor 🚪",
+      "subtitleText": "AI personal librarian for the internet",
+      "bodyText": "[Frontdoor](https://www.frontdoor.xyz/) is an AI assistant that lets you bookmark knowledge on the internet and unearth gems curated by the people you trust, which was incubated from within their own IRL Web3 Founder community we participate in.\n\nWe built the original MVP with all its moving parts from server to website to chrome extension, accelerating their initial trajectory.",
+      "leftMediaUrl": "/assets/frontdoor.mov"
+    },
+    {
       "type": "buttons-1",
       "titleText": "Heard enough?",
       "background": {
@@ -244,6 +251,28 @@
         }
       ]
     },    
+    {
+      "type": "testimonial-slides-1",
+      "slides": [
+        {
+          "text": "...",
+          "authorName": "[@jo3car](https://twitter.com/jo3car)",
+          "authorTitle": "[Overlord](https://overlord.xyz) Founder",
+          "authorImageUrl": "/assets/avatar-joe-creepz.jpg"
+        }
+      ]
+    },
+    {
+      "type": "testimonial-slides-1",
+      "slides": [
+        {
+          "text": "...",
+          "authorName": "[@seedphrase](https://twitter.com/seedphrase)",
+          "authorTitle": "[Seedphrase](https://seedphrase.com) Founder",
+          "authorImageUrl": "/assets/avatar-seedphrase.jpg"
+        }
+      ]
+    },
     {
       "type": "testimonial-slides-1",
       "slides": [
